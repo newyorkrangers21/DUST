@@ -1,0 +1,4 @@
+<table name="Guided Meditation">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="hotded" source="sounds/menu.ogg"/>
+</table>

@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_hotded" : "Guided Meditation",
+    "menu_jukebox_screen_hotded" : "Guided Meditation"
+}
